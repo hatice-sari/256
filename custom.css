@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: black;
 	}
 
-	p::first-letter{
+	.row p::first-letter{
 		font-weight:bold;    
 		font-size: 2.8em;
 		color: darkred;
@@ -35,6 +35,7 @@ h1, h2, h3, h4, h5, h6 {
     color: black;
 	background-image: url(../bilder/hg.jpg);
 	background-repeat: repeat-x;
+	border:10px;
 }
     
 .footer-blurb-item {
